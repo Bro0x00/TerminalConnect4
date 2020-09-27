@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../include/board.h"
+#include "board.h"
 #include <stdio.h>
 #include <stdexcept>
 
